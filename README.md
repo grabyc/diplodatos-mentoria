@@ -16,7 +16,7 @@ El dataset consiste en datos de licencias médicas solicitadas por colaboradores
 - dias_solicitados: Días solicitados por el colaborador
 - fecha_inicio: Fecha a partir de la cual comienza la licencia
 - fecha_fin: Fecha de finalización de la licencia
-- diagnostico: Diagnóstico médico asociado a la lciencia
+- diagnostico: Diagnóstico médico asociado a la licencia
 - id_diagnostico: Número identificatorio del diagnóstico
 - id_usuario: Número identificatorio del colaborador que solicitó la licencia
 - fecha_nacimiento: Fecha de nacimiento del colaborador que solicitó la licencia
