@@ -1,14 +1,14 @@
 # Mentoria: Ciencia de datos aplicada a la predicción de licencias médicas y comportamiento de los colaboradores.
 
-Repositorio para gestionar la mentoria Diplomatura en Ciencia de Datos 
+## Repositorio para gestionar la mentoria de la Diplomatura en Ciencia de Datos - FAMAF
 
 Trabajaremos con datos obtenidos de una plataforma de salud ocupacional con el objetivo de predecir la carga de licencias médicas. Se propone realizar un análisis temporal a diferentes escalas, e identificar las variables asociadas que expliquen el número de licencias y/o diagnósticos involucrados. 
 
-Breve descripcion del dataset
+## Breve descripcion del dataset
 
 El dataset consiste en datos de licencias médicas solicitadas por colaboradores a través de una aplicación, para los años 2021 y 2022, con su diagnóstico asociado. Además contaremos con algunos atributos identificatorios de los usuarios. 
 
-Diccionario de datos
+## Diccionario de datos
 
 - numero_licencia: Número identificatorio de la licencia
 - fecha_creacion: Fecha en la que se solicita la licencia 
